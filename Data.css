@@ -1,0 +1,21 @@
+/* DataTable.css */
+
+/* Style for the "Accept" button */
+.accept-button {
+    background-color: #4caf50; /* Green background color */
+    color: white; /* White text color */
+    border: none; /* Remove border */
+    padding: 10px 20px; /* Add padding */
+    margin-right: 10px; /* Add margin to separate buttons */
+    cursor: pointer; /* Change cursor to a pointer on hover */
+  }
+  
+  /* Style for the "Reject" button */
+  .reject-button {
+    background-color: #f44336; /* Red background color */
+    color: white; /* White text color */
+    border: none; /* Remove border */
+    padding: 10px 20px; /* Add padding */
+    cursor: pointer; /* Change cursor to a pointer on hover */
+  }
+  
